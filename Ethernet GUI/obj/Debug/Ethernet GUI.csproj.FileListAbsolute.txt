@@ -1,0 +1,68 @@
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csprojResolveAssemblyReference.cache
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.Cache
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+E:\F\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csprojResolveAssemblyReference.cache
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+E:\My files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.Cache
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csprojResolveAssemblyReference.cache
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.Cache
+E:\My_files\other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+E:\MyFiles\Other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+E:\MyFiles\Other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+E:\MyFiles\Other\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csprojResolveAssemblyReference.cache
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+E:\Documents\Programing\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.Cache
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csprojResolveAssemblyReference.cache
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+E:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.Cache
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csprojResolveAssemblyReference.cache
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.Cache
+D:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe.config
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.exe
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\bin\Debug\Ethernet GUI.pdb
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.AssemblyReference.cache
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.SuggestedBindingRedirects.cache
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.EthernetDEForm.resources
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet_GUI.Properties.Resources.resources
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.GenerateResource.cache
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.csproj.CoreCompileInputs.cache
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.exe
+J:\Documents\Programming\C#\programs\Ethernet GUI\Ethernet GUI\obj\Debug\Ethernet GUI.pdb
